@@ -22,7 +22,7 @@ export const navItems = [
       title: "I'm very flexible with time zone communications",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
-      imgClassName: "",
+      imgClassName: "flex flex-col justify-between h-full",
       titleClassName: "justify-start",
       img: "",
       spareImg: "",
